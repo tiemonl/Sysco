@@ -1,0 +1,7 @@
+<resources>
+    <string name="planet_name_format">Planet Name: %s</string>
+    <string name="planet_orbital_period_format">Orbital Period: %s</string>
+    <string name="planet_gravity_format">Gravity: %s</string>
+
+    <string name="an_unknown_error_occurred">An unknown error occurred.</string>
+</resources>
