@@ -94,8 +94,5 @@ class PlanetDetailFragment : Fragment() {
 
     companion object {
         const val BUNDLE_ID = "id"
-        fun newInstance(id: Int) = PlanetDetailFragment().apply {
-            arguments = bundleOf(BUNDLE_ID to id)
-        }
     }
 }
